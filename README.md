@@ -14,7 +14,7 @@ Personal projects I've built and shared:
 
 - 📱 **[SelfhostSim](https://github.com/ampilares/selfhostsim)** — Turn your own Android phones and SIM cards into a self-hosted SMS gateway for GoHighLevel. Send and receive messages directly in GHL conversations, with support for multiple devices. **[Website & installation guide →](https://selfhostsim.com)**
 - ✉️ **[Resender](https://github.com/ampilares/resender)** — A self-hosted email relay for contact forms and backend applications. Use your own Gmail or SMTP provider, manage forms in a web dashboard, and inspect delivery and spam logs. One service, one SQLite database.
-- 🧠 **[OneBrain](https://github.com/ampilares/OneBrain)** — Give your AI agents one shared local memory. My setup layer connects an Obsidian vault, Ollama, and MCP around **[Garry Tan's gbrain](https://github.com/garrytan/gbrain)**, with install scripts, sync, and client wiring.
+- 🧠 **[ABrain](https://github.com/ampilares/ABrain)** — Give your AI agents one shared local memory. My setup layer connects an Obsidian vault, Ollama, and MCP around **[Garry Tan's gbrain](https://github.com/garrytan/gbrain)**, with install scripts, sync, and client wiring.
 
 ## More projects
 
