@@ -16,6 +16,29 @@ Personal projects I've built and shared:
 - ✉️ **[Resender](https://github.com/ampilares/resender)** — A self-hosted email relay for contact forms and backend applications. Use your own Gmail or SMTP provider, manage forms in a web dashboard, and inspect delivery and spam logs. One service, one SQLite database.
 - 🧠 **[OneBrain](https://github.com/ampilares/OneBrain)** — Give your AI agents one shared local memory. My setup layer connects an Obsidian vault, Ollama, and MCP around **[Garry Tan's gbrain](https://github.com/garrytan/gbrain)**, with install scripts, sync, and client wiring.
 
+## More projects
+
+A few more tools and experiments from my workbench:
+
+| Project | What I'm building | Stage |
+| --- | --- | --- |
+| [Augmentic](https://github.com/ampilares/augmentic) | AI workforce orchestration for small businesses, with connected tools, workflow approvals, and an audit trail. | MVP |
+| [Thirty](https://github.com/ampilares/thirty) | An AI-native CRM for service businesses: customers, sales, delivery, automation, and agent approvals. | MVP |
+| [Mica](https://github.com/ampilares/mica) | A local-first desktop workspace for Markdown notes, structured databases, and visual canvases. | Prototype |
+| [ChainSight](https://github.com/ampilares/chainsight) | Search on-chain activity by token, amount, and time window, with a web UI and CSV export. | Prototype |
+| [Wallet Studio](https://github.com/ampilares/wallet-studio) | A local multi-wallet dashboard for Base, with encrypted vaults, transaction simulation, and reviewed execution. | Prototype |
+| [Slick Car Rentals](https://github.com/ampilares/slick-car-rentals) | A car-rental website prototype with fleet browsing, bookings, a calendar, and an admin dashboard using mock data. | Prototype |
+
+### On the drawing board
+
+These repositories share ideas and plans at an earlier stage:
+
+- **[Kumi](https://github.com/ampilares/kumi)** — Build plan for a local-only desktop workspace with pages, a block editor, and databases.
+- **[Compandium](https://github.com/ampilares/compandium)** — The starting point for a company brain for AI agents.
+- **[AMP LLM Council](https://github.com/ampilares/amp-llm-council)** — An early repository for an LLM council project.
+- **[AI Engineer Course](https://github.com/ampilares/ai-engineer-course)** — An early repository for an AI engineering course project.
+- **[Leads Enricher](https://github.com/ampilares/leads-enricher)** — A planned lead enrichment tool.
+
 ## What I'm working on
 
 - **Self-hosted tools** — messaging and email infrastructure you can run yourself.
